@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702870291757",
+    "firebase_url": "https://agglo-e0876.firebaseio.com",
+    "project_id": "agglo-e0876",
+    "storage_bucket": "agglo-e0876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702870291757:android:a6cce384d03122dbb4bfa4",
+        "android_client_info": {
+          "package_name": "com.u3jsoft.agglo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702870291757-ufr9nb5n5gl7j11coiobotqfmhsu63fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaMa_XCvvAfkZW6LGh-dZWj2HmlcKab9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702870291757-ufr9nb5n5gl7j11coiobotqfmhsu63fv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
